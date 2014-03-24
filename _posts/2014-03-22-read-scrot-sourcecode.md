@@ -1,4 +1,6 @@
+scrot使用imlib2的屏幕截图工具.
 使用xlib和imlib2,而imlib2 还包含作者自己的工具库giblib.
+
 giblib is a simple library which wraps imlib2. It provides a wrapper to imlib2's context API，avoiding all the context_get/set calls, adds fontstyles to the truetype renderer and supplies a generic doubly-linked list and some string functions
 
 ####main.c主逻辑分析
@@ -19,7 +21,7 @@ giblib is a simple library which wraps imlib2. It provides a wrapper to imlib2's
 
 
 
-###参考文献
+####参考文献
 [xlib](http://www.x.org/releases/X11R7.7/doc/libX11/libX11/libX11.html)
 [imlib2](http://adesklets.sourceforge.net/doc/imlib2/imlib2_8c.html#a14)
 [giblib](http://www.cs.tut.fi/lintula/manual/gtk/glib/glib-string-utility-functions.html)
