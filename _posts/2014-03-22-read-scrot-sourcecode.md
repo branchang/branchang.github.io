@@ -12,12 +12,19 @@ giblib is a simple library which wraps imlib2. It provides a wrapper to imlib2's
 
 虽然程序参数选择中含有多窗口的截图,但是由于程序初始化是只初始化一个window所以-m无用
 
+程序-s选项提供给用户区域截图或者截取某个windows的功能
+
+代码的主要框架也是顺序流程,从程序执行初始化到后面交互再到以后的保存图像,并没有多少逻辑分支
+
 ####options.c 解析配置参数
 包含opt的声明.通过getopt_long解析参数.
 
 ####imlib.c 初始化x与imlib库
-只初始化了一个windows
+初始化了一个windows
 
+
+只初步了解了一些xlib的函数使用,具体原理还需了解
+源码中涉及libx11的内容较多,后续学习时候可以参考使用,在此就不做分析
 
 
 
