@@ -11,7 +11,7 @@ github 提供很方便的方法用搭建自己的站点,比起wordpress要简单
 Pages](https://help.github.com/articles/user-organization-and-project-pages),我的理解是master是建立site的发布分支,通过web访问http://branzhang.github.io/github提供类型的网址都是在请求的此分支的内容,gh-pages用于绑定domain后访问的内容,gh-pages还有作用就是对于已经建立的repo,比如[OSC](https://github.com/BranZhang/OSC),建立gh-pages分支后可以进行web[链接](http://branzhang.github.io/OSC/).
 
 ##Easily keep gh-pages in sync with master
-{% highlight git %}
+{% highlight Bash%}
 git checkout gh-pages // go to the gh-pages branch
 git rebase master // bring gh-pages up to date with master
 git push origin gh-pages // commit the changes
