@@ -36,8 +36,13 @@ $ python manage.py runserver
 {% endhighlight %}
 
 ##postgres 安装配置
-
 {% highlight bash %}
-apt-get install postgresql-9.4
+$ apt-get install postgresql-9.4
 {% endhighlight %}
+根据django文档提示还需要安装Psycopg.根据django文档提示还需要安装Psycopg
+{% highlight bash %}
+sudo port install py27-psycopg2
+{% endhighlight %}
+
+
 
