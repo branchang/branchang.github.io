@@ -1,11 +1,11 @@
 markdown: rdiscount
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
-name: "rusty shutter"
+name: "Rainy Zhang"
 markdown: rdiscount
 
-author: "wayne"
-atom-baseurl: "http://lhzhang.com"
+author: "zhang"
+atom-baseurl: "http://branchang.github.io"
 disqus: "gopherwood"
 
 navigations:
