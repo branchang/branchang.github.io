@@ -1,24 +1,27 @@
-# Dependencies
-markdown:         redcarpet
+markdown: rdiscount
 highlighter: pygments
+permalink: /:year/:month/:day/:title.html
+name: "rusty shutter"
+markdown: rdiscount
 
-# Permalinks
-permalink:        pretty
+author: "wayne"
+atom-baseurl: "http://lhzhang.com"
+disqus: "gopherwood"
 
-# Setup
-title:            Hello World. 
-tagline:          'A Jekyll theme'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://branzhang.github.io
+navigations:
+  - title: Archive
+    class: fa fa-list-ul
+    href: /archive.html
+  - title: Tags
+    class: fa fa-tags
+    href: /tags.html
+  - title: About
+    class: fa fa-user
+    href: /about.html
+  - title: Gallery
+    class: fa fa-film
+    href: http://foto.lhzhang.com
+  - title: Subscribe
+    class: fa fa-rss
+    href: /atom.xml
 
-author:
-  name:           'Bran Zhang'
-  url:            https://twitter.com/orange_zr
-
-paginate:         10
-
-# Custom vars
-version:          1.0.0
-
-github:
-    repo:           https://github.com/branzhang
