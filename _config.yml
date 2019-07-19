@@ -25,3 +25,5 @@ navigations:
     class: fa fa-rss
     href: /atom.xml
 
+
+theme: jekyll-theme-hacker
