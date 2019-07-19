@@ -25,6 +25,6 @@ navigations:
     class: fa fa-rss
     href: /atom.xml
 
-
-theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker
+#theme: jekyll-theme-hacker
 ###
