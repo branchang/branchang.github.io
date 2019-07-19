@@ -2,28 +2,11 @@ markdown: rdiscount
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
 name: "Keep Calm and Carry On"
-markdown: rdiscount
+#markdown: rdiscount
 
 author: "zhang"
 atom-baseurl: "http://branchang.github.io"
-disqus: "gopherwood"
-
-navigations:
-  - title: Archive
-    class: fa fa-list-ul
-    href: /archive.html
-  - title: Tags
-    class: fa fa-tags
-    href: /tags.html
-  - title: About
-    class: fa fa-user
-    href: /about.html
-  #- title: Gallery
-    #class: fa fa-film
-    #href: http://foto.lhzhang.com
-  - title: Subscribe
-    class: fa fa-rss
-    href: /atom.xml
+#disqus: "gopherwood"
 
 remote_theme: pages-themes/hacker
 #theme: jekyll-theme-hacker
