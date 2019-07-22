@@ -1,3 +1,11 @@
+---
+title: "GNU Peoject"
+date: 2018-01-01 00:00:00 +0800
+categories: [Blog, Example]
+tags: [example]
+comments: true
+toc: true
+---
 Bison is a general-purpose parser generator that converts an annotated context-free grammar into a deterministic LR or generalized LR (GLR) parser employing LALR(1) parser tables.
 cpio
 Complexity

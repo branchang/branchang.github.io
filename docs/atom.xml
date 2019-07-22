@@ -4,7 +4,7 @@
  <title></title>
  <link href="/atom.xml" rel="self"/>
  <link href=""/>
- <updated>2019-07-21T23:59:15+08:00</updated>
+ <updated>2019-07-22T10:56:56+08:00</updated>
  <id>/</id>
  <author>
    <name></name>
@@ -14,7 +14,7 @@
  <entry>
    <title>MySQL 加锁队列实现</title>
    <link href="/posts/mysql-queue/"/>
-   <updated>2019-07-18T00:00:00+08:00</updated>
+   <updated>2019-07-11T00:00:00+08:00</updated>
    <id>/posts/mysql-queue</id>
    <content type="html">&lt;p&gt;Mysql的加锁队列的实现&lt;/p&gt;
 </content>
@@ -225,6 +225,164 @@
  </entry>
  
  <entry>
+   <title>GNU Peoject</title>
+   <link href="/posts/GNU-Project/"/>
+   <updated>2018-01-01T00:00:00+08:00</updated>
+   <id>/posts/GNU-Project</id>
+   <content type="html">&lt;p&gt;Bison is a general-purpose parser generator that converts an annotated context-free grammar into a deterministic LR or generalized LR (GLR) parser employing LALR(1) parser tables.
+cpio
+Complexity
+Coreutils - GNU core utilities
+GNU Common C++
+cflow analyzes a collection of C source files and prints a graph, charting control flow within the program&lt;/p&gt;
+
+&lt;p&gt;Dico implements a flexible dictionary server and client according to RFC 2229 (DICT Server)&lt;/p&gt;
+
+&lt;p&gt;DMD is a daemon-managing daemon, meaning that it manages the execution of system services, replacing similar functionality found in typical init systems&lt;/p&gt;
+
+&lt;p&gt;Ed is a line-oriented text editor: rather than offering an overview of a document, ed performs editing one line at a time&lt;/p&gt;
+
+&lt;p&gt;GNU dbm is a library of functions implementing a hashed database on a disk file.&lt;/p&gt;
+
+&lt;p&gt;GNU Gengetopt
+This program generates a C function that uses getopt_long function to parse the command line options, to validate them and fills a struct .&lt;/p&gt;
+
+&lt;p&gt;GMediaServer is a UPnP compatible media server for the GNU system. It is part of the GNU project&lt;/p&gt;
+
+&lt;p&gt;The GNUmed project builds free, liberated open source Electronic Medical Record software in multiple languages to assist and improve longitudinal care (specifically in ambulatory settings, i.e. multi-professional practices and clinics).&lt;/p&gt;
+
+&lt;p&gt;GNUMP3d is a streaming server for MP3s, OGG vorbis files, movies and other media formats&lt;/p&gt;
+
+&lt;p&gt;GNU Robots is a game/diversion where you construct a program for a little robot, then watch him explore a world.&lt;/p&gt;
+
+&lt;p&gt;GNU Radio is a free &amp;amp; open-source software development toolkit that provides signal processing blocks to implement software radios. It can be used with readily-available low-cost external RF hardware to create software-defined radios, or without hardware in a simulation-like environment. It is widely used in hobbyist, academic and commercial environments to support both wireless communications research and real-world radio systems.&lt;/p&gt;
+
+&lt;p&gt;GNUnet is a framework for secure peer-to-peer networking that does not use any centralized or otherwise trusted services.&lt;/p&gt;
+
+&lt;p&gt;GNU gperf is a perfect hash function generator. For a given list of strings, it produces a hash function and hash table, in form of C or C++ code, for looking up a value depending on the input string. The hash function is perfect, which means that the hash table has no collisions, and the hash table lookup needs a single string comparison only.&lt;/p&gt;
+
+&lt;p&gt;Groff (GNU troff) is a typesetting system that reads plain text mixed with formatting commands and produces formatted output&lt;/p&gt;
+
+&lt;p&gt;GRUB is a multiboot bootloader.&lt;/p&gt;
+
+&lt;p&gt;GNU SASL is an implementation of the Simple Authentication and Security Layer framework. On network servers such as IMAP or SMTP servers, SASL is used to handle client/server authentication. This package contains both a library and a command-line tool to access the library.&lt;/p&gt;
+
+&lt;p&gt;GNU Guix is a purely functional package manager for the GNU system distribution.&lt;/p&gt;
+
+&lt;p&gt;The GNU Generic Security Service provides a free implementation of the GSS-API specification.&lt;/p&gt;
+
+&lt;p&gt;Guile is a library designed to help programmers create flexible applications. Using Guile in an application allows the application’s functionality to be extended by users or other programmers with plug-ins, modules, or scripts. Guile provides what might be described as “practical software freedom,” making it possible for users to customize an application to meet their needs without digging into the application’s internals&lt;/p&gt;
+
+&lt;p&gt;GNU Health is a free medical software system, including support for electronic medical records (EMR), a hospital information system (HIS), and health information system. It supports both Spanish and English interfaces. It has been adopted by the United Nations University for implementation and training, and several hospitals and health ministries around the world.&lt;/p&gt;
+
+&lt;p&gt;Inetutils is a collection of common network programs, such as an ftp client and server, a telnet client and server, and an rsh client and server.&lt;/p&gt;
+
+&lt;p&gt;The indent program can be used to make code easier to read. It can also convert from one style of writing C to another. indent understands a substantial amount about the syntax of C, but it also attempts to cope with incomplete and misformed syntax.&lt;/p&gt;
+
+&lt;p&gt;GNU Leg is a set of libraries for game engines and game development. In addition to the libraries, it also includes resource editors designed to make game creation easier. The package is designed to be generic and modular, supporting many different styles of games.&lt;/p&gt;
+
+&lt;p&gt;libdbh provides disk-based hash tables, providing quick lookup of key-value pairs. While its usage is similar in general to that of (G)DBM, it has a different design supporting advanced, atypical usage.&lt;/p&gt;
+
+&lt;p&gt;libiconv provides an implementation of the iconv function for systems that lack it. iconv is used to convert between character encodings in a program. It supports a wide variety of different encodings.&lt;/p&gt;
+
+&lt;p&gt;GNU libmicrohttpd is a small, embeddable HTTP server implemented as a C library. It makes it easy to run an HTTP server as part of another application. The library is fully HTTP 1.1 compliant. It can listen on multiple ports, supports four different threading models, and supports IPv6. It also features security features such as basic and digest authentication and support for SSL3 and TLS&lt;/p&gt;
+
+&lt;p&gt;Mailman is free software for managing electronic mail discussion and e-newsletter lists. Mailman is integrated with the web, making it easy for users to manage their accounts and for list owners to administer their lists. Mailman supports built-in archiving, automatic bounce processing, content filtering, digest delivery, spam filters, and more. See the features page for details.
+Mailman is free software, distributed under the GNU General Public License. Mailman is written in the Python programming language, with a little bit of C code for security.&lt;/p&gt;
+
+&lt;p&gt;MediaGoblin is a free software media publishing platform that anyone can run.GNU MediaGoblin is a free media publishing platform. It runs in a federalized manner, freeing the user from centralized web services. It supports pictures, videos and audio.&lt;/p&gt;
+
+&lt;p&gt;[arithmetic]
+GNU MPC is a C library for performing arithmetic on complex numbers. It supports arbitrarily high precision and it correctly rounds the results
+GNU MPFR is a C library for performing multiple-precision, floating-point computations with correct rounding
+GNU MPRIA is a C library for performing rational arithmetic computations with arbitrarily high precision. It builds on the GMP library
+GNU Octave is a high-level interpreted language that is specialized for numerical computations. It can be used for both linear and non-linear applications and it provides great support for visualizing results. Work may be performed both at the interactive command-line as well as via script files.&lt;/p&gt;
+
+&lt;p&gt;[Game]
+GNU motti is a simple multiplayer strategy game. The objective of the game is to conquer enemies’ capitals by occupying and encircling their territories. The game map is an array of square cells.’&lt;/p&gt;
+
+&lt;p&gt;The GNU Role Playing Game Engine provides an engine for creating two-dimensional, graphical role-playing games, providing, for example, a sprite-tiling grid, sprite rendering, and event handling&lt;/p&gt;
+
+&lt;p&gt;[Tools]
+GNU Mtools is a set of utilities for accessing MS-DOS disks from a GNU or Unix system. It supports long file names and multiple disk formats. It also supports some FAT-specific features such as volume labels and FAT-specific file attributes. 
+GNU paxutils is a suite of archive utilities. It contains versions of the cpio, tar and pax archivers.
+GNU Parted is a package for creating and manipulating disk partition tables. It includes a library and command-line utility.
+GNU Rush is a restricted user shell, for systems on which users are to be provided with only limited functionality or resources. Administrators set user rights via a configuration file which can be used to limit, for example, the commands that can be executed, CPU time, or virtual memory usage.&lt;/p&gt;
+
+&lt;p&gt;GNU Wget is a free software package for retrieving files using HTTP, HTTPS and FTP, the most widely-used Internet protocols. It is a non-interactive commandline tool, so it may easily be called from scripts, cron jobs, terminals without X-Windows support, etc&lt;/p&gt;
+
+&lt;p&gt;[Text Edit]
+GNU Nano is a small and simple text editor. In addition to basic editing, it supports interactive search and replace, go to line and column number, auto-indentation and more.&lt;/p&gt;
+
+&lt;p&gt;[Cryptographic]
+Nettle is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, …), in applications like LSH or GNUPG, or even in kernel space.&lt;/p&gt;
+
+&lt;p&gt;[Protocol]
+GNU oSIP is an implementation of the SIP protocol. It is used to provide multimedia and telecom software developers with an interface to initiate and control SIP sessions.&lt;/p&gt;
+
+&lt;p&gt;[other]
+GNU Pth is a portable library providing non-preemptive, priority-based scheduling for multiple execution threads. Each thread has its own program-counter, run-time stack, signal mask and errno variable. Threads are scheduled in a cooperative way, rather than in the standard preemptive way, such that they are managed according to priority and events. However, Pth also features emulation of POSIX.1c threads (pthreads) for backwards compatibility.&lt;/p&gt;
+
+&lt;p&gt;The GNU readline library allows users to edit command lines as they are typed in. It can maintain a searchable history of previously entered commands, letting you easily recall, edit and re-enter past commands. It features both Emacs-like and vi-like keybindings, making its usage comfortable for anyone&lt;/p&gt;
+
+&lt;p&gt;GNU SHMM is a shared memory manager. It can read or write to shared memory. It also supports other commands such as locking or unlocking a block of shared memory identified by key and size&lt;/p&gt;
+
+&lt;p&gt;GNU SIP Witch is a peer-to-peer Voice-over-IP server that uses the SIP protocol. Calls can be made from behind NAT firewalls and without the need for a service provider. Its peer-to-peer design ensures that there is no central point for media intercept or capture and thus it can be used to construct a secure telephone system that operates over the public internet.&lt;/p&gt;
+
+&lt;p&gt;[Python]&lt;/p&gt;
+
+&lt;p&gt;GNU pyconfigure provides template files for easily implementing standards-compliant configure scripts and Makefiles for Python-based packages. It is designed to work alongside existing Python setup scripts, making it easy to integrate into existing projects. Powerful and flexible Autoconf macros are available, allowing you to easily make adjustments to the installation procedure based on the capabilities of the target computer.&lt;/p&gt;
+
+&lt;p&gt;[Network]&lt;/p&gt;
+
+&lt;p&gt;Serveez is a server framework. It provides routines and help for implementing IP based servers (currently TCP, UDP and ICMP). It is also possible to use named pipes for all connection oriented protocols.&lt;/p&gt;
+
+&lt;p&gt;[Database]
+WB is a disk based (sorted) associative-array database package providing C, SCM, Java, and C# libraries. These associative arrays consist of variable length (0.B to 255.B) keys and values.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>scrot使用imlib2的截图工具</title>
+   <link href="/posts/read-scrot-sourcecode/"/>
+   <updated>2018-01-01T00:00:00+08:00</updated>
+   <id>/posts/read-scrot-sourcecode</id>
+   <content type="html">&lt;p&gt;scrot使用imlib2的幕截图工具.
+用xlib和imlib2,而imlib2 还包含作者自己的工具库giblib.&lt;/p&gt;
+
+&lt;p&gt;giblib is a simple library which wraps imlib2. It provides a wrapper to imlib2’s context API，avoiding all the context_get/set calls, adds fontstyles to the truetype renderer and supplies a generic doubly-linked list and some string functions&lt;/p&gt;
+
+&lt;h4 id=&quot;mainc主逻辑分析&quot;&gt;main.c主逻辑分析&lt;/h4&gt;
+&lt;p&gt;初始化xlib与imlib配置
+结构主要分为解析options部分,imlib图形使用,和主要逻辑,
+作者使用全局opt变量用来保存全局配置,方便其他函数调用修改.
+代码根据程序执行时的配置参数执行不同的逻辑分支.
+通过image镜像生成图片文件保存&lt;/p&gt;
+
+&lt;p&gt;虽然程序参数选择中含有多窗口的截图,但是由于程序初始化是只初始化一个window所以-m无用&lt;/p&gt;
+
+&lt;p&gt;程序-s选项提供给用户区域截图或者截取某个windows的功能&lt;/p&gt;
+
+&lt;p&gt;代码的主要框架也是顺序流程,从程序执行初始化到后面交互再到以后的保存图像,并没有多少逻辑分支&lt;/p&gt;
+
+&lt;h4 id=&quot;optionsc-解析配置参数&quot;&gt;options.c 解析配置参数&lt;/h4&gt;
+&lt;p&gt;包含opt的声明.通过getopt_long解析参数.&lt;/p&gt;
+
+&lt;h4 id=&quot;imlibc-初始化x与imlib库&quot;&gt;imlib.c 初始化x与imlib库&lt;/h4&gt;
+&lt;p&gt;初始化了一个windows&lt;/p&gt;
+
+&lt;p&gt;只初步了解了一些xlib的函数使用,具体原理还需了解
+源码中涉及libx11的内容较多,后续学习时候可以参考使用,在此就不做分析&lt;/p&gt;
+
+&lt;h4 id=&quot;参考文献&quot;&gt;参考文献&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.x.org/releases/X11R7.7/doc/libX11/libX11/libX11.html&quot;&gt;xlib&lt;/a&gt;
+&lt;a href=&quot;http://adesklets.sourceforge.net/doc/imlib2/imlib2_8c.html#a14&quot;&gt;imlib2&lt;/a&gt;
+&lt;a href=&quot;http://www.cs.tut.fi/lintula/manual/gtk/glib/glib-string-utility-functions.html&quot;&gt;giblib&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>autoconf,automake构建项目</title>
    <link href="/posts/autotool/"/>
    <updated>2015-06-07T00:00:00+08:00</updated>
@@ -233,8 +391,8 @@
 automake,autoconf 从gnu官网现在安装即可.两个工具集是由perl和shell编写的.&lt;br /&gt;
 使用autotool并没有想象的繁琐，只需按步骤执行与修改对应文件.&lt;/p&gt;
 
-&lt;p&gt;###autoscan###
-源码根目录调用autoscan脚本,生成对应的configure.scan文件,修改文件名为configure.ac.后续configure.ac会调用系列autoconf宏来测试程序需要用到的特性系统是否满足.&lt;br /&gt;
+&lt;h3 id=&quot;autoscan&quot;&gt;autoscan&lt;/h3&gt;
+&lt;p&gt;源码根目录调用autoscan脚本,生成对应的configure.scan文件,修改文件名为configure.ac.后续configure.ac会调用系列autoconf宏来测试程序需要用到的特性系统是否满足.&lt;br /&gt;
 configure.scan文件格式&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;AC_INIT
@@ -296,17 +454,17 @@ AC_OUTPUT&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;需要注意的是如果使用libtool编译，则选项如下，注意使用了libtool则需要将AC_PROG_RANLIB去掉&lt;/p&gt;
 
-&lt;p&gt;###aclocal###
-执行aclocal生成需要的m4文件,aclocal根据configure.in文件的内容，自动生成aclocal.m4文件, autoconf需要GNU m4宏处理器来处理aclocal.m4，生成configure脚本.&lt;br /&gt;
-这里要注意的是如果m4文件没有生成，有可能的原因就是AC_INIT_AUTOMAKE没有写明.&lt;br /&gt;
-###autoconf###
-autoconf根据m4文件与configure.ac生成项目需要的configure
-###autoheader###
-负责生成config.h.in文件
-###automake —adding-missing###
-这是这里是很重要的一步,通过Makefile.am生成对应的Makefile.in文件
-####Makefile.am规则####
-Makefile.am的总原则 ──── “写Makefile是写规则，而写Makefile.am是一些赋值而已”
+&lt;h3 id=&quot;aclocal&quot;&gt;aclocal&lt;/h3&gt;
+&lt;p&gt;执行aclocal生成需要的m4文件,aclocal根据configure.in文件的内容，自动生成aclocal.m4文件, autoconf需要GNU m4宏处理器来处理aclocal.m4，生成configure脚本.&lt;br /&gt;
+这里要注意的是如果m4文件没有生成，有可能的原因就是AC_INIT_AUTOMAKE没有写明.&lt;/p&gt;
+&lt;h3 id=&quot;autoconf&quot;&gt;autoconf&lt;/h3&gt;
+&lt;p&gt;autoconf根据m4文件与configure.ac生成项目需要的configure&lt;/p&gt;
+&lt;h3 id=&quot;autoheader&quot;&gt;autoheader&lt;/h3&gt;
+&lt;p&gt;负责生成config.h.in文件&lt;/p&gt;
+&lt;h3 id=&quot;automake-adding-missing&quot;&gt;automake —adding-missing&lt;/h3&gt;
+&lt;p&gt;这是这里是很重要的一步,通过Makefile.am生成对应的Makefile.in文件&lt;/p&gt;
+&lt;h4 id=&quot;makefileam规则&quot;&gt;Makefile.am规则&lt;/h4&gt;
+&lt;p&gt;Makefile.am的总原则 ──── “写Makefile是写规则，而写Makefile.am是一些赋值而已”
 编写Makefile.am主要是完成3件事情：编译(make)、安装(make install)、打包(make dist)&lt;br /&gt;
 常见的文件编译类型有下面几种：&lt;/p&gt;
 &lt;ol&gt;
@@ -465,7 +623,7 @@ client\_LDADD：连接时所需要的库文件,这里表示需要两个库文件
 
 
 
-###如何编译libtool库
+### 如何编译libtool库 ###
 对于跨平台可移植的库来说，推荐使用libtool编译，而且Automake内置了libtool的支持，只需要将编译类型修改为_LTLIBRARIES即可。  
 需要注意的是：如果要使用libtool编译，需要在configure.ac中添加LT_INIT宏，同时注释掉AC_PROG_RANLIB，因为使用了LT_INIT后，AC_PROG_RANLIB就没有作用了。  
 
@@ -473,7 +631,7 @@ client\_LDADD：连接时所需要的库文件,这里表示需要两个库文件
 默认安装路径为：$(prefix) = /usr/local，可以通过./configure --prefix=&lt;new_path&gt;的方法来覆盖。
 其它的预定义目录还包括：bindir = $(prefix)/bin, libdir = $(prefix)/lib, datadir = $(prefix)/share, sysconfdir = $(prefix)/etc等等。
 
-###configure###
+### configure ###
 生成对应的Makefile
 
 
@@ -810,215 +968,26 @@ vacuum          = true&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
  </entry>
  
  <entry>
-   <title>Gnu Project</title>
-   <link href="/posts/GNU-Project/"/>
-   <updated>2014-08-31T00:00:00+08:00</updated>
-   <id>/posts/GNU-Project</id>
-   <content type="html">&lt;p&gt;Bison is a general-purpose parser generator that converts an annotated context-free grammar into a deterministic LR or generalized LR (GLR) parser employing LALR(1) parser tables.
-cpio
-Complexity
-Coreutils - GNU core utilities
-GNU Common C++
-cflow analyzes a collection of C source files and prints a graph, charting control flow within the program&lt;/p&gt;
-
-&lt;p&gt;Dico implements a flexible dictionary server and client according to RFC 2229 (DICT Server)&lt;/p&gt;
-
-&lt;p&gt;DMD is a daemon-managing daemon, meaning that it manages the execution of system services, replacing similar functionality found in typical init systems&lt;/p&gt;
-
-&lt;p&gt;Ed is a line-oriented text editor: rather than offering an overview of a document, ed performs editing one line at a time&lt;/p&gt;
-
-&lt;p&gt;GNU dbm is a library of functions implementing a hashed database on a disk file.&lt;/p&gt;
-
-&lt;p&gt;GNU Gengetopt
-This program generates a C function that uses getopt_long function to parse the command line options, to validate them and fills a struct .&lt;/p&gt;
-
-&lt;p&gt;GMediaServer is a UPnP compatible media server for the GNU system. It is part of the GNU project&lt;/p&gt;
-
-&lt;p&gt;The GNUmed project builds free, liberated open source Electronic Medical Record software in multiple languages to assist and improve longitudinal care (specifically in ambulatory settings, i.e. multi-professional practices and clinics).&lt;/p&gt;
-
-&lt;p&gt;GNUMP3d is a streaming server for MP3s, OGG vorbis files, movies and other media formats&lt;/p&gt;
-
-&lt;p&gt;GNU Robots is a game/diversion where you construct a program for a little robot, then watch him explore a world.&lt;/p&gt;
-
-&lt;p&gt;GNU Radio is a free &amp;amp; open-source software development toolkit that provides signal processing blocks to implement software radios. It can be used with readily-available low-cost external RF hardware to create software-defined radios, or without hardware in a simulation-like environment. It is widely used in hobbyist, academic and commercial environments to support both wireless communications research and real-world radio systems.&lt;/p&gt;
-
-&lt;p&gt;GNUnet is a framework for secure peer-to-peer networking that does not use any centralized or otherwise trusted services.&lt;/p&gt;
-
-&lt;p&gt;GNU gperf is a perfect hash function generator. For a given list of strings, it produces a hash function and hash table, in form of C or C++ code, for looking up a value depending on the input string. The hash function is perfect, which means that the hash table has no collisions, and the hash table lookup needs a single string comparison only.&lt;/p&gt;
-
-&lt;p&gt;Groff (GNU troff) is a typesetting system that reads plain text mixed with formatting commands and produces formatted output&lt;/p&gt;
-
-&lt;p&gt;GRUB is a multiboot bootloader.&lt;/p&gt;
-
-&lt;p&gt;GNU SASL is an implementation of the Simple Authentication and Security Layer framework. On network servers such as IMAP or SMTP servers, SASL is used to handle client/server authentication. This package contains both a library and a command-line tool to access the library.&lt;/p&gt;
-
-&lt;p&gt;GNU Guix is a purely functional package manager for the GNU system distribution.&lt;/p&gt;
-
-&lt;p&gt;The GNU Generic Security Service provides a free implementation of the GSS-API specification.&lt;/p&gt;
-
-&lt;p&gt;Guile is a library designed to help programmers create flexible applications. Using Guile in an application allows the application’s functionality to be extended by users or other programmers with plug-ins, modules, or scripts. Guile provides what might be described as “practical software freedom,” making it possible for users to customize an application to meet their needs without digging into the application’s internals&lt;/p&gt;
-
-&lt;p&gt;GNU Health is a free medical software system, including support for electronic medical records (EMR), a hospital information system (HIS), and health information system. It supports both Spanish and English interfaces. It has been adopted by the United Nations University for implementation and training, and several hospitals and health ministries around the world.&lt;/p&gt;
-
-&lt;p&gt;Inetutils is a collection of common network programs, such as an ftp client and server, a telnet client and server, and an rsh client and server.&lt;/p&gt;
-
-&lt;p&gt;The indent program can be used to make code easier to read. It can also convert from one style of writing C to another. indent understands a substantial amount about the syntax of C, but it also attempts to cope with incomplete and misformed syntax.&lt;/p&gt;
-
-&lt;p&gt;GNU Leg is a set of libraries for game engines and game development. In addition to the libraries, it also includes resource editors designed to make game creation easier. The package is designed to be generic and modular, supporting many different styles of games.&lt;/p&gt;
-
-&lt;p&gt;libdbh provides disk-based hash tables, providing quick lookup of key-value pairs. While its usage is similar in general to that of (G)DBM, it has a different design supporting advanced, atypical usage.&lt;/p&gt;
-
-&lt;p&gt;libiconv provides an implementation of the iconv function for systems that lack it. iconv is used to convert between character encodings in a program. It supports a wide variety of different encodings.&lt;/p&gt;
-
-&lt;p&gt;GNU libmicrohttpd is a small, embeddable HTTP server implemented as a C library. It makes it easy to run an HTTP server as part of another application. The library is fully HTTP 1.1 compliant. It can listen on multiple ports, supports four different threading models, and supports IPv6. It also features security features such as basic and digest authentication and support for SSL3 and TLS&lt;/p&gt;
-
-&lt;p&gt;Mailman is free software for managing electronic mail discussion and e-newsletter lists. Mailman is integrated with the web, making it easy for users to manage their accounts and for list owners to administer their lists. Mailman supports built-in archiving, automatic bounce processing, content filtering, digest delivery, spam filters, and more. See the features page for details.
-Mailman is free software, distributed under the GNU General Public License. Mailman is written in the Python programming language, with a little bit of C code for security.&lt;/p&gt;
-
-&lt;p&gt;MediaGoblin is a free software media publishing platform that anyone can run.GNU MediaGoblin is a free media publishing platform. It runs in a federalized manner, freeing the user from centralized web services. It supports pictures, videos and audio.&lt;/p&gt;
-
-&lt;p&gt;[arithmetic]
-GNU MPC is a C library for performing arithmetic on complex numbers. It supports arbitrarily high precision and it correctly rounds the results
-GNU MPFR is a C library for performing multiple-precision, floating-point computations with correct rounding
-GNU MPRIA is a C library for performing rational arithmetic computations with arbitrarily high precision. It builds on the GMP library
-GNU Octave is a high-level interpreted language that is specialized for numerical computations. It can be used for both linear and non-linear applications and it provides great support for visualizing results. Work may be performed both at the interactive command-line as well as via script files.&lt;/p&gt;
-
-&lt;p&gt;[Game]
-GNU motti is a simple multiplayer strategy game. The objective of the game is to conquer enemies’ capitals by occupying and encircling their territories. The game map is an array of square cells.’&lt;/p&gt;
-
-&lt;p&gt;The GNU Role Playing Game Engine provides an engine for creating two-dimensional, graphical role-playing games, providing, for example, a sprite-tiling grid, sprite rendering, and event handling&lt;/p&gt;
-
-&lt;p&gt;[Tools]
-GNU Mtools is a set of utilities for accessing MS-DOS disks from a GNU or Unix system. It supports long file names and multiple disk formats. It also supports some FAT-specific features such as volume labels and FAT-specific file attributes. 
-GNU paxutils is a suite of archive utilities. It contains versions of the cpio, tar and pax archivers.
-GNU Parted is a package for creating and manipulating disk partition tables. It includes a library and command-line utility.
-GNU Rush is a restricted user shell, for systems on which users are to be provided with only limited functionality or resources. Administrators set user rights via a configuration file which can be used to limit, for example, the commands that can be executed, CPU time, or virtual memory usage.&lt;/p&gt;
-
-&lt;p&gt;GNU Wget is a free software package for retrieving files using HTTP, HTTPS and FTP, the most widely-used Internet protocols. It is a non-interactive commandline tool, so it may easily be called from scripts, cron jobs, terminals without X-Windows support, etc&lt;/p&gt;
-
-&lt;p&gt;[Text Edit]
-GNU Nano is a small and simple text editor. In addition to basic editing, it supports interactive search and replace, go to line and column number, auto-indentation and more.&lt;/p&gt;
-
-&lt;p&gt;[Cryptographic]
-Nettle is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, …), in applications like LSH or GNUPG, or even in kernel space.&lt;/p&gt;
-
-&lt;p&gt;[Protocol]
-GNU oSIP is an implementation of the SIP protocol. It is used to provide multimedia and telecom software developers with an interface to initiate and control SIP sessions.&lt;/p&gt;
-
-&lt;p&gt;[other]
-GNU Pth is a portable library providing non-preemptive, priority-based scheduling for multiple execution threads. Each thread has its own program-counter, run-time stack, signal mask and errno variable. Threads are scheduled in a cooperative way, rather than in the standard preemptive way, such that they are managed according to priority and events. However, Pth also features emulation of POSIX.1c threads (pthreads) for backwards compatibility.&lt;/p&gt;
-
-&lt;p&gt;The GNU readline library allows users to edit command lines as they are typed in. It can maintain a searchable history of previously entered commands, letting you easily recall, edit and re-enter past commands. It features both Emacs-like and vi-like keybindings, making its usage comfortable for anyone&lt;/p&gt;
-
-&lt;p&gt;GNU SHMM is a shared memory manager. It can read or write to shared memory. It also supports other commands such as locking or unlocking a block of shared memory identified by key and size&lt;/p&gt;
-
-&lt;p&gt;GNU SIP Witch is a peer-to-peer Voice-over-IP server that uses the SIP protocol. Calls can be made from behind NAT firewalls and without the need for a service provider. Its peer-to-peer design ensures that there is no central point for media intercept or capture and thus it can be used to construct a secure telephone system that operates over the public internet.&lt;/p&gt;
-
-&lt;p&gt;[Python]&lt;/p&gt;
-
-&lt;p&gt;GNU pyconfigure provides template files for easily implementing standards-compliant configure scripts and Makefiles for Python-based packages. It is designed to work alongside existing Python setup scripts, making it easy to integrate into existing projects. Powerful and flexible Autoconf macros are available, allowing you to easily make adjustments to the installation procedure based on the capabilities of the target computer.&lt;/p&gt;
-
-&lt;p&gt;[Network]&lt;/p&gt;
-
-&lt;p&gt;Serveez is a server framework. It provides routines and help for implementing IP based servers (currently TCP, UDP and ICMP). It is also possible to use named pipes for all connection oriented protocols.&lt;/p&gt;
-
-&lt;p&gt;[Database]
-WB is a disk based (sorted) associative-array database package providing C, SCM, Java, and C# libraries. These associative arrays consist of variable length (0.B to 255.B) keys and values.&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Liquid And Markdown 用法</title>
-   <link href="/posts/Liquid-and-Markdown-%E7%94%A8%E6%B3%95/"/>
-   <updated>2014-03-28T00:00:00+08:00</updated>
-   <id>/posts/Liquid-and-Markdown-用法</id>
-   <content type="html">&lt;p&gt;###Liquid&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;代码插入高亮显示&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;show&lt;/span&gt;
-    &lt;span class=&quot;vi&quot;&gt;@widget&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Widget&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;params&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;respond_to&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
-        &lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;html&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# show.html.erb&lt;/span&gt;
-        &lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;json&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;render&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;json: &lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@widget&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;k&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;sw_upgradeEvent_observer_start&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-	&lt;span class=&quot;n&quot;&gt;m_upgradeevent_thrd&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sw_thrd_open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;tUpgradeEvent&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;64&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1024&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;upgrade_event_proc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-	&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;m_upgradeevent_thrd&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-		&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-	&lt;span class=&quot;n&quot;&gt;sw_thrd_resume&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;m_upgradeevent_thrd&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-	&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Read Scrot Sourcecode</title>
-   <link href="/posts/read-scrot-sourcecode/"/>
-   <updated>2014-03-22T00:00:00+08:00</updated>
-   <id>/posts/read-scrot-sourcecode</id>
-   <content type="html">&lt;p&gt;scrot使用imlib2的屏幕截图工具.
-使用xlib和imlib2,而imlib2 还包含作者自己的工具库giblib.&lt;/p&gt;
-
-&lt;p&gt;giblib is a simple library which wraps imlib2. It provides a wrapper to imlib2’s context API，avoiding all the context_get/set calls, adds fontstyles to the truetype renderer and supplies a generic doubly-linked list and some string functions&lt;/p&gt;
-
-&lt;p&gt;####main.c主逻辑分析
-初始化xlib与imlib配置
-结构主要分为解析options部分,imlib图形使用,和主要逻辑,
-作者使用全局opt变量用来保存全局配置,方便其他函数调用修改.
-代码根据程序执行时的配置参数执行不同的逻辑分支.
-通过image镜像生成图片文件保存&lt;/p&gt;
-
-&lt;p&gt;虽然程序参数选择中含有多窗口的截图,但是由于程序初始化是只初始化一个window所以-m无用&lt;/p&gt;
-
-&lt;p&gt;程序-s选项提供给用户区域截图或者截取某个windows的功能&lt;/p&gt;
-
-&lt;p&gt;代码的主要框架也是顺序流程,从程序执行初始化到后面交互再到以后的保存图像,并没有多少逻辑分支&lt;/p&gt;
-
-&lt;p&gt;####options.c 解析配置参数
-包含opt的声明.通过getopt_long解析参数.&lt;/p&gt;
-
-&lt;p&gt;####imlib.c 初始化x与imlib库
-初始化了一个windows&lt;/p&gt;
-
-&lt;p&gt;只初步了解了一些xlib的函数使用,具体原理还需了解
-源码中涉及libx11的内容较多,后续学习时候可以参考使用,在此就不做分析&lt;/p&gt;
-
-&lt;p&gt;####参考文献
-&lt;a href=&quot;http://www.x.org/releases/X11R7.7/doc/libX11/libX11/libX11.html&quot;&gt;xlib&lt;/a&gt;
-&lt;a href=&quot;http://adesklets.sourceforge.net/doc/imlib2/imlib2_8c.html#a14&quot;&gt;imlib2&lt;/a&gt;
-&lt;a href=&quot;http://www.cs.tut.fi/lintula/manual/gtk/glib/glib-string-utility-functions.html&quot;&gt;giblib&lt;/a&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Github pages + jekyll build person site</title>
    <link href="/posts/build-blog/"/>
    <updated>2014-03-15T00:00:00+08:00</updated>
    <id>/posts/build-blog</id>
    <content type="html">&lt;p&gt;github 提供很方便的方法用搭建自己的站点,比起wordpress要简单方便很多,相对而言功能比较单一,不过对我而言也足够了.&lt;/p&gt;
 
-&lt;p&gt;##Builed github pages
-&lt;a href=&quot;http://pages.github.com/&quot;&gt;Github pages&lt;/a&gt;,简单说建立新的repository,使用github指定的site address就可以进行基础的访问.
+&lt;h2 id=&quot;builed-github-pages&quot;&gt;Builed github pages&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://pages.github.com/&quot;&gt;Github pages&lt;/a&gt;,简单说建立新的repository,使用github指定的site address就可以进行基础的访问.
 需要注意的是参考其他guides可能会发现要求建立除了master以外的gh-pages,而这就涉及到&lt;a href=&quot;https://help.github.com/articles/user-organization-and-project-pages&quot;&gt;User,Organization,and Project
 Pages&lt;/a&gt;,我的理解是master是建立site的发布分支,通过web访问http://branzhang.github.io/github提供类型的网址都是在请求的此分支的内容,gh-pages用于绑定domain后访问的内容,gh-pages还有作用就是对于已经建立的repo,比如&lt;a href=&quot;https://github.com/BranZhang/OSC&quot;&gt;OSC&lt;/a&gt;,建立gh-pages分支后可以进行web&lt;a href=&quot;http://branzhang.github.io/OSC/&quot;&gt;链接&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;##Easily keep gh-pages in sync with master&lt;/p&gt;
+&lt;h2 id=&quot;easily-keep-gh-pages-in-sync-with-master&quot;&gt;Easily keep gh-pages in sync with master&lt;/h2&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;git checkout gh-pages // go to the gh-pages branch
 git rebase master // bring gh-pages up to &lt;span class=&quot;nb&quot;&gt;date &lt;/span&gt;with master
 git push origin gh-pages // commit the changes
 git checkout master // &lt;span class=&quot;k&quot;&gt;return &lt;/span&gt;to the master branch&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;##Introducing Jekyll
-&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
+&lt;h2 id=&quot;introducing-jekyll&quot;&gt;Introducing Jekyll&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
@@ -1037,7 +1006,7 @@ This is done with the liquid templating language.&lt;/p&gt;
 &lt;p&gt;使用开源的主题可以节省很多订制时间,也方便参考修改
 &lt;a href=&quot;https://github.com/poole/lanyon&quot;&gt;Lanyon&lt;/a&gt; is an unassuming Jekyll theme that places content first by tucking away navigation in a hidden drawer. It’s based on Poole, the Jekyll butler.&lt;/p&gt;
 
-&lt;p&gt;###What is &lt;a href=&quot;http://jekyllbootstrap.com/lessons/jekyll-introduction.html#toc_16&quot;&gt;Liquid&lt;/a&gt;?&lt;/p&gt;
+&lt;h3 id=&quot;what-is-liquid&quot;&gt;What is &lt;a href=&quot;http://jekyllbootstrap.com/lessons/jekyll-introduction.html#toc_16&quot;&gt;Liquid&lt;/a&gt;?&lt;/h3&gt;
 
 &lt;p&gt;Liquid is a secure templating language developed by Shopify. Liquid is designed for end-users to be able to execute logic within template files without imposing any security risk on the hosting server.&lt;/p&gt;
 
@@ -1045,11 +1014,11 @@ This is done with the liquid templating language.&lt;/p&gt;
 
 &lt;p&gt;_layouts目录下面存放这些模板&lt;/p&gt;
 
-&lt;p&gt;###What is &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Makedown&lt;/a&gt;?
-Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).&lt;/p&gt;
+&lt;h3 id=&quot;what-is-makedown&quot;&gt;What is &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Makedown&lt;/a&gt;?&lt;/h3&gt;
+&lt;p&gt;Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).&lt;/p&gt;
 
-&lt;p&gt;######参考
-&lt;a href=&quot;http://24ways.org/2013/get-started-with-github-pages/&quot;&gt;http://24ways.org/2013/get-started-with-github-pages/&lt;/a&gt;
+&lt;h6 id=&quot;参考&quot;&gt;参考&lt;/h6&gt;
+&lt;p&gt;&lt;a href=&quot;http://24ways.org/2013/get-started-with-github-pages/&quot;&gt;http://24ways.org/2013/get-started-with-github-pages/&lt;/a&gt;
 &lt;a href=&quot;https://help.github.com/categories/20/articles&quot;&gt;https://help.github.com/categories/20/articles&lt;/a&gt;
 &lt;a href=&quot;http://joshualande.com/2014/02/03/jekyll-github-pages-poole/&quot;&gt;http://joshualande.com/2014/02/03/jekyll-github-pages-poole/&lt;/a&gt;&lt;/p&gt;
 
@@ -1100,6 +1069,37 @@ Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you 
 &lt;p&gt;Lanyon is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/lanyon&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
 
 &lt;p&gt;Thanks!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Liquid</title>
+   <link href="/posts/Liquid-and-Markdown-%E7%94%A8%E6%B3%95/"/>
+   <updated>2014-01-01T00:00:00+08:00</updated>
+   <id>/posts/Liquid-and-Markdown-用法</id>
+   <content type="html">&lt;p&gt;###Liquid&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;代码插入高亮显示&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;show&lt;/span&gt;
+    &lt;span class=&quot;vi&quot;&gt;@widget&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Widget&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;params&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;respond_to&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+        &lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;html&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# show.html.erb&lt;/span&gt;
+        &lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;json&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;render&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;json: &lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@widget&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;k&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;sw_upgradeEvent_observer_start&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;m_upgradeevent_thrd&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sw_thrd_open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;tUpgradeEvent&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;64&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1024&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;upgrade_event_proc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;m_upgradeevent_thrd&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+	&lt;span class=&quot;n&quot;&gt;sw_thrd_resume&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;m_upgradeevent_thrd&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
 </content>
  </entry>
  

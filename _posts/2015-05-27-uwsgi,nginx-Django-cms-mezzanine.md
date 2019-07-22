@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  uWSGI,nginx部署基于Django的cms开源项目mezzanine
+tags: [Mezzanine]
 ---
 
 很早就当搭建个人的cms系统，趁着休假期间时间充裕前后后用了几天时间终于勉强可以访问.  

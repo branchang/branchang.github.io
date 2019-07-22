@@ -1,3 +1,12 @@
+---
+title: "Liquid"
+date: 2014-01-01 00:00:00 +0800
+categories: [Blog, Example]
+tags: [example]
+comments: true
+toc: true
+---
+
 ###Liquid
 - 代码插入高亮显示
 
