@@ -96,3 +96,7 @@ blocklist: # Sitemap will ignore directories as below.
   - /tabs/
   - /categories/
   - /tags/
+
+plugins:
+  - jekyll-feed
+
